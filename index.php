@@ -1,0 +1,1 @@
+<?php echo "Webhook server is live!"; ?>
